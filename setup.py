@@ -4,5 +4,7 @@ setup(
     name='python_helpers',
     version='0.1',
     packages=find_packages(),  # This line ensures it includes the `python_helpers/` folder
-    install_requires=[],
+    install_requires=[
+         'wtforms'
+    ],
 )
