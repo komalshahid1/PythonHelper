@@ -1,3 +1,3 @@
 # My Helpers Library
 
-Reusable validation and utility functions.
+Reusable validation and utility.
